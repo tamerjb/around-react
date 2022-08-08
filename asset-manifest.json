@@ -1,7 +1,7 @@
 {
   "main.css": "/around-react/static/css/main.470d3765.chunk.css",
-  "main.js": "/around-react/static/js/main.34e9a379.chunk.js",
-  "main.js.map": "/around-react/static/js/main.34e9a379.chunk.js.map",
+  "main.js": "/around-react/static/js/main.c5b2d8c6.chunk.js",
+  "main.js.map": "/around-react/static/js/main.c5b2d8c6.chunk.js.map",
   "static/js/1.709d58a2.chunk.js": "/around-react/static/js/1.709d58a2.chunk.js",
   "static/js/1.709d58a2.chunk.js.map": "/around-react/static/js/1.709d58a2.chunk.js.map",
   "static/js/2.37b85816.chunk.js": "/around-react/static/js/2.37b85816.chunk.js",
@@ -9,9 +9,9 @@
   "runtime~main.js": "/around-react/static/js/runtime~main.0a9d1b8d.js",
   "runtime~main.js.map": "/around-react/static/js/runtime~main.0a9d1b8d.js.map",
   "static/media/around.svg": "/around-react/static/media/around.8f7611ae.svg",
-  "static/media/index.css": "/around-react/static/media/Inter-Black.d0b121f3.woff",
+  "static/media/index.css": "/around-react/static/media/plus_icon.b2fce4ac.svg",
   "static/css/main.470d3765.chunk.css.map": "/around-react/static/css/main.470d3765.chunk.css.map",
   "index.html": "/around-react/index.html",
-  "precache-manifest.ce43e9a54b5f963dd5164fef2ae55909.js": "/around-react/precache-manifest.ce43e9a54b5f963dd5164fef2ae55909.js",
+  "precache-manifest.ef68898ffb14080f155347efde161cbe.js": "/around-react/precache-manifest.ef68898ffb14080f155347efde161cbe.js",
   "service-worker.js": "/around-react/service-worker.js"
 }
